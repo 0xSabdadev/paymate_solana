@@ -1,7 +1,7 @@
 use anchor_lang::prelude::*;
 use anchor_spl::token::{self, TokenAccount, Transfer};
 
-declare_id!("7dBGVKd322kdBdUWhiqcY3UxHuGZnjxtZTqa57svFRcx");
+declare_id!("C79KJka4Het3Y1gPh51KtCtCZcmhRgqoNZs9r4t7tfQD");
 
 #[program]
 pub mod my_payment_processor {
